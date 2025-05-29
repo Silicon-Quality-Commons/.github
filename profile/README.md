@@ -66,15 +66,6 @@ Crear productos de software que transformen procesos empresariales complejos en 
 
 ---
 
-## 🧩 Tecnologías que usamos
-
-- ⚛️ React + Tailwind CSS
-- 🚀 Vite + Framer Motion
-- 📦 Node.js / PostgreSQL
-- ☁️ Firebase, Docker, y más...
-
----
-
 ## 🤝 Trabaja con nosotros
 
 ¿Te apasiona la tecnología, el diseño o el desarrollo de productos que marcan diferencia?
